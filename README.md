@@ -1,2 +1,2 @@
-# bahar_clinic_backend
-Clinic Bahar Back-end
+# TechInsight Backend
+TechInsight mobile application backend 
